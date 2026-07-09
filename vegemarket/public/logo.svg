@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#66BB6A" />
+      <stop offset="100%" style="stop-color:#4CAF50" />
+    </linearGradient>
+  </defs>
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="45" fill="white" stroke="url(#grad)" stroke-width="4"/>
+  <!-- Leaf icon -->
+  <path d="M50 25 C35 40 30 55 50 75 C70 55 65 40 50 25Z" 
+        fill="url(#grad)" />
+  <path d="M50 25 C45 35 45 50 50 75" 
+        stroke="white" stroke-width="2" fill="none"/>
+  <!-- Small leaf details -->
+  <circle cx="43" cy="45" r="2" fill="white" opacity="0.6"/>
+  <circle cx="57" cy="45" r="2" fill="white" opacity="0.6"/>
+  <!-- Text -->
+  <text x="50" y="95" font-family="Arial" font-size="10" 
+        font-weight="bold" fill="#4CAF50" text-anchor="middle">VM</text>
+</svg>

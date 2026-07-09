@@ -1,0 +1,3 @@
+export default function Register() { 
+  return <div className="p-12 max-w-md mx-auto"><div className="glass-card p-8"><h2 className="text-2xl font-bold">Register</h2><input className="glass-input w-full mt-4" placeholder="Name" /><input className="glass-input w-full mt-3" placeholder="Email" /><input className="glass-input w-full mt-3" placeholder="Password" type="password" /><button className="btn-primary w-full mt-4">Create Account</button></div></div>; 
+}
