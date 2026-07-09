@@ -151,44 +151,44 @@ Theme
 
 ## Home
 
-![Home](screenshots/home.PNG)
+![Home](screenshots/home.png)
 
 ## Products
 
-![Products](screenshots/product.PNG)
+![Products](screenshots/product.png)
 
 ## Product Detail
 
-![Product Detail](screenshots/product_detail.PNG)
+![Product Detail](screenshots/product_detail.png)
 
 ## Cart
 
-![Cart](screenshots/cart.PNG)
+![Cart](screenshots/cart.png)
 
 ## Wishlist
 
-![Wishlist](screenshots/wishlist.PNG)
+![Wishlist](screenshots/wishlist.png)
 
 ## Checkout
 
 ![Checkout](screenshots/checkout.png)
-![Checkout Payment](screenshots/checkout_payment.PNG)
-![Checkout Confirm](screenshots/checkout_confirm.PNG)
+![Checkout Payment](screenshots/checkout_payment.png)
+![Checkout Confirm](screenshots/checkout_confirm.png)
 ## Login
 
-![Login](screenshots/login.PNG)
+![Login](screenshots/login.png)
 
 ## Register
 
-![Register](screenshots/register.PNG)
+![Register](screenshots/register.png)
 
 ## About
 
-![About](screenshots/about.PNG)
+![About](screenshots/about.png)
 
 ## Contact
 
-![Contact](screenshots/contact.PNG)
+![Contact](screenshots/contact.png)
 
 ---
 
